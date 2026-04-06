@@ -55,7 +55,7 @@ Un analizador avanzado del archivo `$MFT` que proporciona una visión detallada 
 - **Dependencias de Python:**
   - `pandas`
   - `tkinter` (incluido por defecto en la mayoría de instalaciones de Python)
-  - 
+    
 ## Autor ✒️
 
 * **Guzmán Salas Flórez** - [guzmanichu](https://github.com/guzmanichu)
