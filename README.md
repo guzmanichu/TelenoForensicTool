@@ -59,7 +59,7 @@ Un analizador avanzado del archivo `$MFT` que proporciona una visión detallada 
 ## Autor - Disclaimer
 
 * **Guzmán Salas Flórez** - [guzmanichu](https://github.com/guzmanichu)
-* NO ME HAGO RESPONSABLE DEL USO DE NINGUNA DE ESTAS HERRAMIENTAS NI DE LA INFORMACIÓN OBTENIDAS DE ELLAS.
+* NO ME HAGO RESPONSABLE DEL USO DE NINGUNA DE ESTAS HERRAMIENTAS NI DE LA INFORMACIÓN OBTENIDA DE ELLAS.
 
 ---
 *Desarrollado para propósitos de análisis forense digital en el Experience Plus de FGULEM-Proconsi.*
