@@ -56,9 +56,10 @@ Un analizador avanzado del archivo `$MFT` que proporciona una visión detallada 
   - `pandas`
   - `tkinter` (incluido por defecto en la mayoría de instalaciones de Python)
     
-## Autor ✒️
+## Autor - Disclaimer
 
 * **Guzmán Salas Flórez** - [guzmanichu](https://github.com/guzmanichu)
+* NO ME HAGO RESPONSABLE DEL USO DE NINGUNA DE ESTAS HERRAMIENTAS NI DE LA INFORMACIÓN OBTENIDAS DE ELLAS.
 
 ---
 *Desarrollado para propósitos de análisis forense digital en el Experience Plus de FGULEM-Proconsi.*
